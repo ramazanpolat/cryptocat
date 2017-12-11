@@ -1,0 +1,2 @@
+# cryptocat
+Cryptocurrency categories
